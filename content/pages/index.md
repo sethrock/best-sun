@@ -44,25 +44,7 @@ sections:
     type: section_content
     image: /images/holistic.jpg
     image_alt: Geometric pattern
-    content: >-
-      Hi this is my text and image block. Vis accumsan feugiat adipiscing nisl
-      amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus
-      aliquet placerat commodo.
-
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
-
-      Id massa aliquet arcu accumsan lorem amet accumsan.
-
-
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
+    content: "## Holistic Approach at a Glace\n\nA holistic approach means to provide support that looks at the whole person, not just their mental health needs. The support should also consider their physical, emotional, social and spiritual wellbeing.\n\nEach person will have a different experience of mental illness and a path to recovery that is influenced by their age, gender, culture, heritage, language, faith, sexual and gender identity, relationship status, life experience and beliefs.\n\nIt is important not to assume that how you interpret situations will be the same as the person you are supporting. Listening, asking and checking are key skills to be able to provide a holistic service.\_A holistic approach focusses on a person’s wellness and not just their illness or condition.\n"
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
