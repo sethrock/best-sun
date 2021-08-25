@@ -1,6 +1,6 @@
 ---
 title: Mind
-subtitle: What is the Mind
+subtitle: Defining The Mind
 date: '2016-09-04'
 thumb_img_path: /images/Mind.jpg
 thumb_img_alt: Geometric pattern
