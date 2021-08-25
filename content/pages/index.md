@@ -43,7 +43,7 @@ sections:
     type: section_posts
     has_more_link: true
     more_link_text: Learn more
-  - title: A Cat
+  - title: A Holistic Appoach
     section_id: cat
     type: section_content
     image: /images/holistic.jpg
