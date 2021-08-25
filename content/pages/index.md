@@ -5,7 +5,21 @@ sections:
     type: section_hero
     title: Sera Somatic
     subtitle: |
-      ### We Never Have Problems. Simply Opportunities to Improve
+      > We 
+      >
+      > ***Never***
+      >
+      >  Have 
+      >
+      > ***Problems***
+      >
+      > . Simply 
+      >
+      > **Opportunities**
+      >
+      >  to 
+      >
+      > **Improve**
     image: /images/IMG_2759.jpeg
     image_alt: Author avatar
   - title: Text
