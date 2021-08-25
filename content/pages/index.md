@@ -47,7 +47,7 @@ sections:
     section_id: cat
     type: section_content
     image: /images/holistic.jpg
-    image_alt: Geometric pattern
+    image_alt: 'Holistic Approach '
     content: "## Holistic Approach at a Glace\n\nA holistic approach means to provide support that looks at the whole person, not just their mental health needs. The support should also consider their physical, emotional, social and spiritual wellbeing.\n\nEach person will have a different experience of mental illness and a path to recovery that is influenced by their age, gender, culture, heritage, language, faith, sexual and gender identity, relationship status, life experience and beliefs.\n\nIt is important not to assume that how you interpret situations will be the same as the person you are supporting. Listening, asking and checking are key skills to be able to provide a holistic service.\n\n\_A holistic approach focusses on a person’s wellness and not just their illness or condition.\n"
 seo:
   title: Stackbit Vanilla Theme
