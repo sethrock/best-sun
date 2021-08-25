@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: This is a hero headline.
+    title: Sera Somatic
     subtitle: '### This is a super-cool hero subhead.'
     image: /images/IMG_2759.jpeg
     image_alt: Author avatar
