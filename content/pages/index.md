@@ -12,11 +12,11 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: >+
+    content: >
       ### What is a Life Coach?&#xA;
 
 
-      #### The reality is that the life coach industry is exploding. In fact,
+      ##### The reality is that the life coach industry is exploding. In fact,
       it’s one of the fastest-growing industries in the world. Becoming a life
       coach offers you the flexibility to work whenever and wherever you
       want—while getting paid to serve others. You get to create as much value
@@ -24,10 +24,18 @@ sections:
       like it.
 
 
+      ##### So, why would you need a life coach in the first place? Simply put,
+      coaching helps you identify what’s going on in your own brain. When you
+      feel unable to get the results you want or feel frustrated with your life,
+      coaching is the answer. A life coach can help you recognize where you’re
+      stuck and show you exactly what needs to change when you can’t see it
+      yourself. A life coach is like the best friend who will call you out when
+      you’re showing up in a way you don’t want to, give you tough love, and
+      believe in you way before you may be able to. They help you create the
+      exact life you’ve always wanted.
 
 
       ###
-
     image: /images/IMG_2600.jpg
     image_alt: test
   - title: Recent Posts
