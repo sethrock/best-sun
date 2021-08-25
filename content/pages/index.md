@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Sera Somatic
     subtitle: >
-      ##### You ***Never*** Have ***Problems***. Only **Opportunities** to
+      ### You ***Never*** Have ***Problems***. Only **Opportunities** to
       **Improve**.
     image: /images/IMG_2759.jpeg
     image_alt: Author avatar
